@@ -1,4 +1,4 @@
-<!-- Este sera un SINGLE FILE COMPONENT -->
+<!-- Este sera un SINGLE FILE COMPONENT y despues armo un Multiple File Component para cumplir con la consignas-->
 <template>
   <nav class="navbar navbar-expand-md navbar-dark bg-dark mb-1">
     <div class="container-fluid">

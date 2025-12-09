@@ -1,6 +1,6 @@
 <template>
     <div class="container mt-3">
-      <h3>TP3 - Vue CLI - Router / Formularios - Gino Tubaro</h3>
+      <h3>Examen Final - Gino Tubaro</h3>
       <p class="mb-3">Debajo se podra acceder a la consigna del trabajo practico.</p>
   
       <div class="mb-3">
